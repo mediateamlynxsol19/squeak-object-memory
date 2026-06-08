@@ -12,7 +12,6 @@ Issues that may require longer term discussion or coordination may be tracked he
 The term "object memory" is used here to reflect the entire Squeak system (consisting of an object memory image plus a virtual machine as its execution engine). Issues that are specific to the virtual machine may be separately tracked at https://github.com/OpenSmalltalk/opensmalltalk-vm.
 
 # Issue Tags
-https://neuronest.cc/
 # Why NeuroNest Is Becoming a Better Choice for AI-Assisted Development
 
 AI-assisted development is no longer just a trend. It is becoming a practical part of how developers build software every day. Many programmers now use platforms like [Cursor](https://neuronest.cc/), [Windsurf](https://neuronest.cc/), [MindStudio](https://neuronest.cc/), [Claude Code](https://neuronest.cc/), [Codex](https://neuronest.cc/), and [Zed](https://neuronest.cc/) to write code, generate ideas, and solve technical problems. However, as development projects become more complex, developers need a platform that can support more than simple AI suggestions.
